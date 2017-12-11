@@ -1,0 +1,897 @@
+1507155534791	geckodriver	INFO	geckodriver 0.18.0
+1507155534792	geckodriver	INFO	Listening on 127.0.0.1:56967
+1507155535899	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507155536017	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507155536246	Marionette	INFO	Enabled via --marionette
+1507155536987	Marionette	INFO	Listening on port 35525
+1507155537014	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507155537037	Marionette	DEBUG	Register listener.js for window 2147483649
+1507155537055	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507155538742	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507155538742	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155539212	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/loginpage.aspx"
+1507155539473	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/loginpage.aspx"
+1507155777073	geckodriver	INFO	geckodriver 0.18.0
+1507155777076	geckodriver	INFO	Listening on 127.0.0.1:59255
+1507155778178	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507155778286	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507155778498	Marionette	INFO	Enabled via --marionette
+1507155779203	Marionette	INFO	Listening on port 36423
+1507155779296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507155779320	Marionette	DEBUG	Register listener.js for window 2147483649
+1507155779338	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507155779528	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507155779529	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155779972	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/loginpage.aspx"
+1507155780251	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/loginpage.aspx"
+1507155780649	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/loginpage.aspx"
+1507155780765	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/loginpage.aspx"
+1507155780769	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/loginpage.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155780904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155780936	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155781278	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507155781662	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155782229	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155782237	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155782332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155782368	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155782411	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155782834	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155782841	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155782964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155782972	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155783035	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155783146	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155783162	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155783255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155783260	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155783267	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155783310	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155783317	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155783401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155783427	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155783524	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155783528	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155783530	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155783627	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155783635	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155783882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507155783890	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155783927	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155783933	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155784040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784044	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784144	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784149	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784150	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155784266	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155784276	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155784332	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155784441	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155784450	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155784532	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784562	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784567	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784601	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784602	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155784682	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784690	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784817	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784821	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155784822	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155784916	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155784925	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155785205	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1507155785215	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155785256	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155785262	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155785365	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155785373	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155785457	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155785461	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155785462	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155785533	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155785568	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155785642	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155785741	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155785745	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155786155	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786158	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786165	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786240	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786247	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155786337	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786363	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786455	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786460	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786461	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155786556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155786559	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155786641	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155786753	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+1507155786761	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/Directory.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155786872	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786875	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786885	Marionette	DEBUG	Received DOM event "beforeunload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786913	Marionette	DEBUG	Received DOM event "pagehide" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786915	Marionette	DEBUG	Received DOM event "unload" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+JavaScript warning: https://apps.ivey.ca/core/common/js/jquery-1.3.2.min.js, line 19: unreachable code after return statement
+1507155786969	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507155786997	Marionette	DEBUG	Received DOM event "pageshow" for "https://apps.ivey.ca/AlumniPortal/PersonDetails.aspx"
+1507163812625	geckodriver	INFO	geckodriver 0.18.0
+1507163812628	geckodriver	INFO	Listening on 127.0.0.1:36107
+1507163813730	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507163813837	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507163814053	Marionette	INFO	Enabled via --marionette
+1507163814756	Marionette	INFO	Listening on port 43421
+1507163814841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507163814866	Marionette	DEBUG	Register listener.js for window 2147483649
+1507163814893	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507163815035	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507163815035	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507163815050	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=946702800&amp;period2=1507089600&amp;interval=1d&amp;events=history&amp;crumb=u0gAnjuyln7"
+1507163815055	Marionette	DEBUG	Received DOM event "pageshow" for "https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=946702800&amp;period2=1507089600&amp;interval=1d&amp;events=history&amp;crumb=u0gAnjuyln7"
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.19.0_643d6911392a3398cb1607993edabfa7_min.js, line 15: TypeError: Z(...) is null
+1507164048774	Marionette	DEBUG	Register listener.js for window 4294967297
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/react-lightbox.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/td-ads.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-applet-account-switch.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-profile.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-storylines.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 63: Error: Origin is not allowed by Access-Control-Allow-Origin
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: Error: Errors on rendering applets: UH-0-UH
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: TypeError: t._viewportDetector is undefined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: TypeError: t._viewportDetector is undefined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+1507164053541	Marionette	DEBUG	Register listener.js for window 4294967534
+1507164099492	geckodriver	INFO	geckodriver 0.18.0
+1507164099493	geckodriver	INFO	Listening on 127.0.0.1:46365
+1507164100583	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507164100694	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507164100889	Marionette	INFO	Enabled via --marionette
+1507164101694	Marionette	INFO	Listening on port 45869
+1507164101790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507164101812	Marionette	DEBUG	Register listener.js for window 2147483649
+1507164101840	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507164102001	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507164102001	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507164102021	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=946702800&amp;period2=1507089600&amp;interval=1d&amp;events=history&amp;crumb=u0gAnjuyln7"
+1507164102026	Marionette	DEBUG	Received DOM event "pageshow" for "https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=946702800&amp;period2=1507089600&amp;interval=1d&amp;events=history&amp;crumb=u0gAnjuyln7"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507164145962	geckodriver	INFO	geckodriver 0.18.0
+1507164145964	geckodriver	INFO	Listening on 127.0.0.1:55463
+1507164147068	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507164147176	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507164147383	Marionette	INFO	Enabled via --marionette
+1507164148043	Marionette	INFO	Listening on port 41161
+1507164148114	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507164148137	Marionette	DEBUG	Register listener.js for window 2147483649
+1507164148165	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507164148428	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507164148429	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507164148448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=946702800&amp;period2=1507089600&amp;interval=1d&amp;events=history&amp;crumb=bKCCaph2/Nx"
+1507164148453	Marionette	DEBUG	Received DOM event "pageshow" for "https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=946702800&amp;period2=1507089600&amp;interval=1d&amp;events=history&amp;crumb=bKCCaph2/Nx"
+1507164169512	Marionette	DEBUG	Register listener.js for window 6442450945
+1507164183651	Marionette	DEBUG	Register listener.js for window 8589934593
+1507164389584	Marionette	DEBUG	Register listener.js for window 10737418241
+javaldx: Could not find a Java Runtime Environment!
+Warning: failed to read path from javaldx
+
+(soffice:17621): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:17621): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+
+(soffice:17621): Gdk-WARNING **: gdk_window_set_icon_list: icons too large
+1507164452112	geckodriver	INFO	geckodriver 0.18.0
+1507164452114	geckodriver	INFO	Listening on 127.0.0.1:56063
+1507164453213	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507164453331	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507164453530	Marionette	INFO	Enabled via --marionette
+1507164454268	Marionette	INFO	Listening on port 34235
+1507164454337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507164454360	Marionette	DEBUG	Register listener.js for window 2147483649
+1507164454397	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507164454645	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507164454645	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507164454665	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=946702800&period2=1507089600&interval=1d&events=history&crumb=bKCCaph2/Nx"
+1507164454670	Marionette	DEBUG	Received DOM event "pageshow" for "https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=946702800&period2=1507089600&interval=1d&events=history&crumb=bKCCaph2/Nx"
+1507164472551	Marionette	DEBUG	Register listener.js for window 12884901889
+1507164504902	Marionette	DEBUG	Register listener.js for window 4294967297
+1507164515495	Marionette	DEBUG	Register listener.js for window 4294967297
+1507164523176	Marionette	DEBUG	Register listener.js for window 2147484111
+1507164590666	geckodriver	INFO	geckodriver 0.18.0
+1507164590668	geckodriver	INFO	Listening on 127.0.0.1:55545
+1507164591758	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507164591873	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507164592103	Marionette	INFO	Enabled via --marionette
+1507164592809	Marionette	INFO	Listening on port 44711
+1507164592878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507164592900	Marionette	DEBUG	Register listener.js for window 2147483649
+1507164592933	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507164593784	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507164593784	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507164594757	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+1507164596168	Marionette	DEBUG	Received DOM event "pageshow" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.19.0_643d6911392a3398cb1607993edabfa7_min.js, line 15: TypeError: Z(...) is null
+1507164653004	Marionette	DEBUG	Register listener.js for window 2147483809
+1507164961595	geckodriver	INFO	geckodriver 0.18.0
+1507164961596	geckodriver	INFO	Listening on 127.0.0.1:55813
+1507164962685	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507164962805	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507164963029	Marionette	INFO	Enabled via --marionette
+1507164963792	Marionette	INFO	Listening on port 41257
+1507164963898	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507164963938	Marionette	DEBUG	Register listener.js for window 2147483649
+1507164963965	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507164964942	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507164964943	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507164966093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+1507164968687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1507164968763	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1507164969976	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483710"
+1507164970803	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483697"
+1507164987255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507164987255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1507164987255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1507164987255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1507164987255	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1507164987455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483693"
+1507164987455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1507164987455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483702"
+1507164987455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483703"
+1507164987455	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1507164988123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1507164988123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1507164988123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1507164988123	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1507164988371	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483748"
+1507164988694	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483756"
+1507164989129	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483754"
+1507164989822	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483730"
+1507164989822	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483726"
+1507164989823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483722"
+1507164989823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483743"
+1507164989823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483744"
+1507164989823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483715"
+1507164989823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483732"
+1507164989824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483728"
+1507164989824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483723"
+1507164989824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483750"
+1507164989824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483716"
+1507164989824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483738"
+1507164989824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483739"
+1507164989824	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483736"
+1507164989825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483717"
+1507164989825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1507164989825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483700"
+1507164989825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483708"
+1507164989825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483691"
+1507164989826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1507164989826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1507164989826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1507164989826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483712"
+1507164989826	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483714"
+1507164989827	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507165018641	geckodriver	INFO	geckodriver 0.18.0
+1507165018644	geckodriver	INFO	Listening on 127.0.0.1:57209
+1507165019747	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507165019855	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507165020094	Marionette	INFO	Enabled via --marionette
+1507165021038	Marionette	INFO	Listening on port 34553
+1507165021058	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507165021083	Marionette	DEBUG	Register listener.js for window 2147483649
+1507165021113	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507165021983	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507165021984	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507165023214	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+1507165024607	Marionette	DEBUG	Received DOM event "pageshow" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.19.0_643d6911392a3398cb1607993edabfa7_min.js, line 15: TypeError: Z(...) is null
+1507165225003	Marionette	DEBUG	Register listener.js for window 6442450949
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1507165533035	geckodriver	INFO	geckodriver 0.18.0
+1507165533037	geckodriver	INFO	Listening on 127.0.0.1:48197
+1507165534119	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507165534245	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507165534465	Marionette	INFO	Enabled via --marionette
+1507165535254	Marionette	INFO	Listening on port 34245
+1507165535330	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507165535356	Marionette	DEBUG	Register listener.js for window 2147483649
+1507165535394	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507165536143	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507165536144	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507165537181	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+1507165539393	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1507165541517	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1507165553565	Marionette	DEBUG	Received DOM event "pageshow" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+1507165554704	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1507165554704	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483680"
+1507165554704	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1507165554704	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483687"
+1507165554705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483688"
+1507165554705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1507165554705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1507165554705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1507165554705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1507165554705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483654"
+1507165554705	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1507165554706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483696"
+1507165554706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483694"
+1507165554706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1507165554706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1507165554706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1507165554706	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1507165554912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+1507165555983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483725"
+1507165556001	Marionette	DEBUG	Received DOM event "pageshow" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.19.0_643d6911392a3398cb1607993edabfa7_min.js, line 15: TypeError: Z(...) is null
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1507165749237	geckodriver	INFO	geckodriver 0.18.0
+1507165749239	geckodriver	INFO	Listening on 127.0.0.1:47473
+1507165750307	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507165750425	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507165750628	Marionette	INFO	Enabled via --marionette
+1507165751418	Marionette	INFO	Listening on port 44913
+1507165751531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507165751557	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507165998393	geckodriver	INFO	geckodriver 0.18.0
+1507165998395	geckodriver	INFO	Listening on 127.0.0.1:47249
+1507165999477	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507165999586	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507165999807	Marionette	INFO	Enabled via --marionette
+1507166000505	Marionette	INFO	Listening on port 39145
+1507166000596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507166000627	Marionette	DEBUG	Register listener.js for window 2147483649
+1507166251731	geckodriver	INFO	geckodriver 0.18.0
+1507166251733	geckodriver	INFO	Listening on 127.0.0.1:55593
+1507166252826	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507166252937	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507166253142	Marionette	INFO	Enabled via --marionette
+1507166253845	Marionette	INFO	Listening on port 41385
+1507166253936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507166253959	Marionette	DEBUG	Register listener.js for window 2147483649
+1507166253985	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507166253996	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507166253996	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507166253997	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1507166254140	Marionette	DEBUG	Register listener.js for window 4294967297
+1507166254173	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1507166254195	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=fileNotFound&u=file%3A///home/download/AAPL%2520153.48%2520-1.00%2520-0.65%25%2520%3A%2520Apple%2520Inc.%2520-%2520Yahoo%2520Finance.html&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20file%20at%20/home/download/AAPL%20153.48%20-1.00%20-0.65%25%20%3A%20Apple%20Inc.%20-%20Yahoo%20Finance.html."
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: TypeError: t._viewportDetector is undefined
+1507166291184	Marionette	DEBUG	Register listener.js for window 4294967300
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/react-lightbox.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/td-ads.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-applet-account-switch.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-profile.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-storylines.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 63: Error: Origin is not allowed by Access-Control-Allow-Origin
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: Error: Errors on rendering applets: UH-0-UH
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: TypeError: t._viewportDetector is undefined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+1507166317430	geckodriver	INFO	geckodriver 0.18.0
+1507166317431	geckodriver	INFO	Listening on 127.0.0.1:47361
+1507166318537	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507166318654	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507166318863	Marionette	INFO	Enabled via --marionette
+1507166319623	Marionette	INFO	Listening on port 43097
+1507166319652	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507166319678	Marionette	DEBUG	Register listener.js for window 2147483649
+1507166319743	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507166319755	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507166319756	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507166319756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1507166319898	Marionette	DEBUG	Register listener.js for window 4294967297
+1507166319929	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1507166319952	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=fileNotFound&u=file%3A///home/payson/download/AAPL%2520153.48%2520-1.00%2520-0.65%25%2520%3A%2520Apple%2520Inc.%2520-%2520Yahoo%2520Finance.html&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20file%20at%20/home/payson/download/AAPL%20153.48%20-1.00%20-0.65%25%20%3A%20Apple%20Inc.%20-%20Yahoo%20Finance.html."
+1507166338026	Marionette	DEBUG	Register listener.js for window 4294967300
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/react-lightbox.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/td-ads.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-applet-account-switch.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-profile.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-storylines.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 63: Error: Origin is not allowed by Access-Control-Allow-Origin
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: Error: Errors on rendering applets: UH-0-UH
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: TypeError: t._viewportDetector is undefined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+1507166412522	geckodriver	INFO	geckodriver 0.18.0
+1507166412523	geckodriver	INFO	Listening on 127.0.0.1:60539
+1507166413622	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507166413734	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507166413930	Marionette	INFO	Enabled via --marionette
+1507166414613	Marionette	INFO	Listening on port 46817
+1507166414633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507166414658	Marionette	DEBUG	Register listener.js for window 2147483649
+1507166414742	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507166414756	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507166414756	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507166414756	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1507166414906	Marionette	DEBUG	Register listener.js for window 4294967297
+1507166414939	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1507166414962	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=fileNotFound&u=file%3A///home/payson/download/AAPL/%2520153.48/%2520-1.00/%2520-0.65%25/%2520%3A/%2520Apple%2520Inc./%2520-/%2520Yahoo/%2520Finance.html&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20file%20at%20/home/payson/download/AAPL/%20153.48/%20-1.00/%20-0.65%25/%20%3A/%20Apple%20Inc./%20-/%20Yahoo/%20Finance.html."
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507166463462	geckodriver	INFO	geckodriver 0.18.0
+1507166463465	geckodriver	INFO	Listening on 127.0.0.1:34833
+1507166464548	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507166464665	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507166464882	Marionette	INFO	Enabled via --marionette
+1507166465684	Marionette	INFO	Listening on port 39283
+1507166465758	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507166465793	Marionette	DEBUG	Register listener.js for window 2147483649
+1507166465821	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507166465833	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507166465833	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507166465834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1507166465981	Marionette	DEBUG	Register listener.js for window 4294967297
+1507166466015	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+1507166466038	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "about:neterror?e=fileNotFound&u=file%3A///home/payson/download/AAPL.html&c=UTF-8&f=regular&d=Firefox%20can%E2%80%99t%20find%20the%20file%20at%20/home/payson/download/AAPL.html."
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 20259] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-6SoPIC/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507166527940	geckodriver	INFO	geckodriver 0.18.0
+1507166527942	geckodriver	INFO	Listening on 127.0.0.1:55671
+1507166529034	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507166529153	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507166529358	Marionette	INFO	Enabled via --marionette
+1507166530101	Marionette	INFO	Listening on port 46243
+1507166530145	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507166530170	Marionette	DEBUG	Register listener.js for window 2147483649
+1507166530195	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507166530207	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507166530208	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507166530208	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+1507166530354	Marionette	DEBUG	Register listener.js for window 4294967297
+1507166530386	Marionette	DEBUG	Check readyState "uninitialized for "about:blank"
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/react-lightbox.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/td-ads.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-applet-account-switch.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-profile.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-storylines.js, line 1: ReferenceError: webpackJsonp is not defined
+1507166530811	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "file:///home/payson/Downloads/AAPL.html"
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 63: Error: Origin is not allowed by Access-Control-Allow-Origin
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: Error: Errors on rendering applets: UH-0-UH
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: TypeError: t._viewportDetector is undefined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+1507166535269	Marionette	DEBUG	Received DOM event "pageshow" for "file:///home/payson/Downloads/AAPL.html"
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/react-lightbox.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/td-ads.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-applet-account-switch.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-profile.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/tdv2-service-storylines.js, line 1: ReferenceError: webpackJsonp is not defined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 63: Error: Origin is not allowed by Access-Control-Allow-Origin
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=2 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: Error: Errors on rendering applets: UH-0-UH
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=70 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: TypeError: t._viewportDetector is undefined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/r-sf_data_004/showad_data/PugMaster.html, line 1: TypeError: PubMatic.PugMasterCallback is not a function
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[Parent 18627] WARNING: pipe error (117): Connection reset by peer: file /build/firefox-6SoPIC/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: https://s0.2mdn.net/5363820/1504206433774/Rogers_Enterprise_Wireless_DigitalAD_728x90_FR.js, line 1950: TypeError: this.btn is undefined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: TypeError: t._viewportDetector is undefined
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 24: TypeError: t._viewportDetector is undefined
+1507166702706	Marionette	DEBUG	Register listener.js for window 4294967297
+1507166806520	geckodriver	INFO	geckodriver 0.18.0
+1507166806522	geckodriver	INFO	Listening on 127.0.0.1:50549
+1507166807624	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507166807745	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507166807973	Marionette	INFO	Enabled via --marionette
+1507166808772	Marionette	INFO	Listening on port 39843
+1507166808830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507166808852	Marionette	DEBUG	Register listener.js for window 2147483649
+1507166808879	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1507166809796	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1507166809797	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1507166810567	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+1507166811884	Marionette	DEBUG	Received DOM event "pageshow" for "https://ca.finance.yahoo.com/quote/AAPL/history?period1=946702800&period2=1507089600&interval=1d&filter=history&frequency=1d"
+JavaScript error: https://static.adsafeprotected.com/main.17.4.20.js, line 107: NS_ERROR_NOT_INITIALIZED: 
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://pixel.yabidos.com/flimpobj.js?cb=1507166881782&ver1=2.1.9&rnd=rzg881rfrd6a&cid=407 line 1 > eval, line 1: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a65fe5000)::ForceLoseContext
+1507166973089	Marionette	DEBUG	Register listener.js for window 2147484518
+1507168173269	geckodriver	INFO	geckodriver 0.18.0
+1507168173270	geckodriver	INFO	Listening on 127.0.0.1:35361
+1507168174376	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507168174492	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507168174692	Marionette	INFO	Enabled via --marionette
+1507168175405	Marionette	INFO	Listening on port 41147
+1507168175487	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507168175514	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507168275816	geckodriver	INFO	geckodriver 0.18.0
+1507168275818	geckodriver	INFO	Listening on 127.0.0.1:45659
+1507168276911	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507168277021	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507168277225	Marionette	INFO	Enabled via --marionette
+1507168277939	Marionette	INFO	Listening on port 45957
+1507168278034	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507168278065	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507168290783	geckodriver	INFO	geckodriver 0.18.0
+1507168290785	geckodriver	INFO	Listening on 127.0.0.1:39085
+1507168291876	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507168291998	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507168292214	Marionette	INFO	Enabled via --marionette
+1507168292904	Marionette	INFO	Listening on port 39125
+1507168292988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507168293010	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1507168386516	geckodriver	INFO	geckodriver 0.18.0
+1507168386517	geckodriver	INFO	Listening on 127.0.0.1:39651
+1507168387614	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1507168387727	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///usr/lib/firefox/omni.ja!/components/addonManager.js:65
+1507168387971	Marionette	INFO	Enabled via --marionette
+1507168388697	Marionette	INFO	Listening on port 38899
+1507168388775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1507168388798	Marionette	DEBUG	Register listener.js for window 2147483649
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a65fe5000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a6d996800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a3958d000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a49264000)::ForceLoseContext
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.19.0_643d6911392a3398cb1607993edabfa7_min.js, line 15: TypeError: Z(...) is null
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.19.0_643d6911392a3398cb1607993edabfa7_min.js, line 15: TypeError: Z(...) is null
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a50b21000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a52cb1000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a56aa2000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a67ab4800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a680b5000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a6a8b5800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a60121800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a6b241800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a6d398000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a69845000)::ForceLoseContext
+JavaScript warning: https://js.ad-score.com/score.min.js?pid=1000117&tid=-1&l1=1520567819&l2=1854241184&l3=ca.finance.yahoo.com&l4=&l5=1854241184&l6=1520567819&p1=https%3A%2F%2Fca.finance.yahoo.com&p2=Mozilla%2F5.0%20(X11%3B%20Ubuntu%3B%20Linux%20x86_64%3B%20rv%3A56.0)%20Gecko%2F20100101%20Firefox%2F56.0&p3=174.117.3.13&p4=CA&p5=&p6=&pub_app=&pub_domain=ca.finance.yahoo.com, line 136: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a6e716000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a6fb08800)::ForceLoseContext
+WebGL(0x7f4a705c6800)::ForceLoseContext
+WebGL(0x7f4a45d8c800)::ForceLoseContext
+WebGL(0x7f4a56a37800)::ForceLoseContext
+WebGL(0x7f4a65ff4800)::ForceLoseContext
+WebGL(0x7f4a6a26e800)::ForceLoseContext
+WebGL(0x7f4a6b676800)::ForceLoseContext
+WebGL(0x7f4a6b167800)::ForceLoseContext
+WebGL(0x7f4a3cd69800)::ForceLoseContext
+WebGL(0x7f4a56212000)::ForceLoseContext
+WebGL(0x7f4a67b56000)::ForceLoseContext
+WebGL(0x7f4a69245800)::ForceLoseContext
+WebGL(0x7f4a6b228000)::ForceLoseContext
+WebGL(0x7f4a7a95d800)::ForceLoseContext
+WebGL(0x7f4a46290000)::ForceLoseContext
+WebGL(0x7f4a512ba800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a45b4a000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a46e19000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a53541800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a67b59000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a70556800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a6e70f000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a70fd1000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a7055f000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a7224e000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a723a0800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a6af15000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49fba46000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a02242000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a0477a800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49fe3ba800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a05173800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49fc230800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a0518c000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a13cd2800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49f5e68800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a0518c800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a04ca4000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a13cd6000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a29e7b800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a32e0b800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a6a235800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49ffa29800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a64c72000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a7224d800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a794d4800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49e6967000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49e6e55000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a00191800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a114e8800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a13ccf000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a2a241000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a29f5f800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a490b0800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a0dba2800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a701ad000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a70dbb000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a712aa000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a7a041000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49c1964000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49d93af000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49e7737800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49ebd99000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49ebf5d000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49ef885000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49ef8dc000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a0a30d800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f4a0ce53000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49e3f56000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49c345b000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49d9565800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49e3f49000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49e57bc800)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49c195e000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49e018b000)::ForceLoseContext
+JavaScript warning: https://cdn-ssl.vidible.tv/prod/ad-client/js/1.20.54/0.js, line 20: Error: WebGL warning: Exceeded 16 live WebGL contexts for this principal, losing the least recently used one.
+WebGL(0x7f49e018c800)::ForceLoseContext
+[Parent 18627] WARNING: pipe error (50): Connection reset by peer: file /build/firefox-6SoPIC/firefox-56.0+build6/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+JavaScript error: file:///home/payson/Downloads/AAPL%20153.48%20-1.00%20-0.65%%20:%20Apple%20Inc.%20-%20Yahoo%20Finance_files/vendor.js, line 17: Error: Minified React error #32; visit http://facebook.github.io/react/docs/error-decoder.html?invariant=32&args[]=1560 for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
